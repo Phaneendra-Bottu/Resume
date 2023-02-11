@@ -1,0 +1,51 @@
+#nameAndAboutMe{
+    margin: -10px;
+    width: 540px;
+    height: auto;
+    background-color: rgb(67, 67, 67);
+    color: white;
+    font-family: sans-serif;
+    padding: 30px;
+}
+hr {
+height: 3px;
+background: black;
+margin: 45px;
+}
+table{
+    margin: 45px;
+    padding: 15px;
+    padding-left: 40px;
+    font-family: sans-serif;
+}
+#subHeading{
+    font-size: 45px;
+}
+#mainText1{
+    padding-left: 200px;
+    font-size: 25px;
+}
+#mainText2{
+    padding-left: 170px;
+    font-size: 25px;
+}
+#subText{
+    margin: 10px; 
+    font-size: 23px;
+    
+}
+#timeLine{
+    padding-left: 250px;
+    font-size: 25px;
+}
+li{
+    font-size: 21px;
+    line-height: 33px;
+}
+#description{
+    font-size: 22px;
+    width: 500px;
+    margin: -60px;
+    padding-left: 50px;
+}
+/* <p id="address">VIT, Vellore Campus, Tiruvalam Rd, Katpadi, Vellore, Tamil Nadu 632014</p>  */
