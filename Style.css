@@ -50,6 +50,12 @@ li{
 }
 #certificate{
     font-family: sans-serif;
-    font-size: 25px;
+    font-size: 26px;
+    text-decoration: none;
+}
+#link{
+    width: 35px;
+    height: auto;
+    vertical-align: middle;
 }
 /* <p id="address">VIT, Vellore Campus, Tiruvalam Rd, Katpadi, Vellore, Tamil Nadu 632014</p>  */
