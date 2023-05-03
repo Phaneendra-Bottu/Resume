@@ -1,3 +1,3 @@
-Hello All, I am Phaneendra B.
-<br>
-I am an upcoming CS graduate working so hard just to change some numbers in this single page document.
+Hello Everyone, I am Phaneendra B.
+<br><br>
+I am a CS undergraduate student working so hard just to change some numbers in this single-page document.
